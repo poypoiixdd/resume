@@ -8,7 +8,7 @@ It includes navigation links (internal anchors), structured sections, tables for
 ## Features
 
 - Semantic layout using:
-  - `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<address>`, `<footer>`
+  - `<header>`, `<main>`, `<section>`, `<article>`, `<address>`, `<footer>`
 
 - Tables with proper structure:
   - `<table>`, `<thead>`, `<tbody>`
